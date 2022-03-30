@@ -1,6 +1,6 @@
 <?php
  
-namespace Sanjay\EventsObservers\Observer;
+namespace Sanjay\Search\Observer;
  
 use Magento\Framework\View\Page\Config;
 use Magento\Framework\Event\Observer as EventObserver;
